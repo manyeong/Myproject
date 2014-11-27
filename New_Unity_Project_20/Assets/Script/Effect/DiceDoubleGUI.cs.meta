@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b503646572ff95a42b015d49c28b682d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PointSkin: {fileID: 11400000, guid: 0a8fc3eacab4c7b4ab3f56c8a266626e, type: 2}
+  - PointSkinShadow: {fileID: 11400000, guid: 23286c74e961f5e4681b47598b0620c4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
